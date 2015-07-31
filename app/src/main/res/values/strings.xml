@@ -1,0 +1,29 @@
+<resources>
+    <!--Files-->
+    <string name="notesFile_name">NOTES</string>
+    <!--MainMenu-->
+    <string name="app_name">Notas 1</string>
+    <string name="addNoteButtonLabel">Add a note</string>
+    <string name="addPhotoButtonLabel">Add a photo/note</string>
+    <string name="addAudioButtonLabel">Add an audio/note</string>
+    <string name="myNotesButtonLabel">View my notes</string>
+    <string name="noteTitleAlertDialog">Type a title for your note</string>
+    <string name="confirmAlertDialog">Confirm</string>
+    <string name="cancelAlertDialog">Cancel</string>
+    <!--AddNote-->
+    <string name="addNoteSaveButton">Save</string>
+    <string name="addNoteCancelButton">Cancel</string>
+    <!--DisplayNote-->
+    <string name="OkButton">Ok</string>
+    <string name="DeleteButton">Delete</string>
+    <string name="noteNewTitleAlertDialog">Type a new title</string>
+    <!--AddPhotoNote-->
+    <string name="captureButton">Capture</string>
+    <string name="addPhotoNoteCancelButton">Cancel</string>
+    <string name="flashButton">Flash</string>
+    <!--ActionBar-->
+    <string name="menuSettings">Settings</string>
+    <string name="menuAbout">About it</string>
+    <string name="menuBackMainMenu">Main Menu</string>
+    <string name="menuChangeTitle">Change name of the note</string>
+</resources>
